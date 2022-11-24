@@ -1,0 +1,8 @@
+{ "mqtt": {
+		"brokerID": "77.74.17.12",
+		"brokerPort": 1883,
+		"clean_session": false,
+		"QoS": 0
+		}
+}
+	
